@@ -937,7 +937,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build, publish and track in-product training courses: screens, learners, completions, certificates and SCORM export.
 - [Wikitolica](https://www.wikitolica.com/mcp) `https://www.wikitolica.com/mcp`
   [![Wikitolica MCP connector](https://glama.ai/mcp/connectors/com.wikitolica/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.wikitolica/mcp)
-  🔓 - Wikitólica is your go-to Catholic encyclopedia. Explore the Church's faith, doctrine, tradition, saints, liturgy, popes, history, and Magisterium.
+  🔓 - Explore the Church's faith, doctrine, tradition, saints, liturgy, popes, history, and Magisterium.
 
 ### 🌳 <a name="environment"></a>Environment
 
